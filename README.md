@@ -13,7 +13,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
 
 ## Overview
 
@@ -62,8 +61,5 @@ More Practice!
 
 ### Useful resources
 
-- [Jonas Schmedtmann's Build Responsive Real-World Websites with HTML and CSS - Lesson on shadows](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)
+- [Jonas Schmedtmann's Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)
 
-## Author
-
-- Website - [Joshua Udo](https://github.com/Jemajr)
