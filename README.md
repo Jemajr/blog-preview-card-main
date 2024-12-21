@@ -58,7 +58,7 @@ I was able to practice making reusable css classes
 
 More Practice!
 
-![More Practice!](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3gwenltYTI4N2s1ZHZ3dHR1ems5MTdna3E3c3NkdW02eXNzZWloZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI105rmEC22CJFK/giphy.gif =50x50)
+![More Practice!](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3gwenltYTI4N2s1ZHZ3dHR1ems5MTdna3E3c3NkdW02eXNzZWloZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI105rmEC22CJFK/giphy.gif)
 
 ### Useful resources
 
